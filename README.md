@@ -6,4 +6,4 @@ this is a simple readme file
 
 just some update
 
-the following entry will cause some trouble.
+I hope this is no so much troublessom
